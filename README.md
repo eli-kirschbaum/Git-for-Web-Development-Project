@@ -4,7 +4,7 @@ In this project you will be using the concepts learned in the Git for Web Develo
 This project consists of two parts:
 
 ## Task 1: Set up Project
-You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
+You will need to follow the BloomTech Git Workflow to add a file to this project follow the steps below:
 
 - [x ] Create your own version of this repo - Fork
 - [x ] Clone this repo
@@ -35,9 +35,4 @@ Stretch Git Tasks
   - [ ] Research and understand what a `merge conflict` is and how to resolve it.
   - [ ] Research the Git commands `pull`, `rebase`, `merge`. These commands will allow you to bring in changes that other developers push to the main branch.
   - [ ] Research the Git commands `reset `, `revert`, `clean`. These commands will allow you to go back and amends previous commits you have made.
-
-- [ ] Research and set up a Graphical User Interface (GUI) Git console. 
-
-- [ ] Research and setup SSH keys with GitHub, so that you do not need to input your username/password each time you push. 
-
 
